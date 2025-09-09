@@ -19,8 +19,4 @@ Este repositório contém scripts SQL para a criação, manipulação e administ
 ---
 
 ## ▶️ Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Thomas-Adrian-Soler-Nilsson/DATABASE.SQL.git
-   cd DATABASE.SQL
+1- Abra o PHPMyAdmin, XAMP ou qualquer outra plataforma compativel com o MySQL e cole o código... 
